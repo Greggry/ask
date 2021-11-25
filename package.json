@@ -1,0 +1,24 @@
+{
+  "name": "@greggry/ask",
+  "version": "1.0.0",
+  "description": "a readline module for CLI scripts",
+  "main": "ask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greggry/ask.git"
+  },
+  "keywords": [
+    "ask",
+    "readline",
+    "CLI"
+  ],
+  "author": "greggry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greggry/ask/issues"
+  },
+  "homepage": "https://github.com/Greggry/ask#readme"
+}
