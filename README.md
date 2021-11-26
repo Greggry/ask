@@ -2,7 +2,7 @@
 
 This is a simple script for CLI tools which can be used as an easy-to-use readline script.
 
-# installation
+# Installation
 
 `npm i @greggry/ask`
 
