@@ -1,6 +1,6 @@
 {
   "name": "@greggry/ask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a readline module for CLI scripts",
   "main": "ask.js",
   "scripts": {
